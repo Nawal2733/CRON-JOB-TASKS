@@ -8,8 +8,8 @@ const nodeMailer = async () => {
         secure: false,
         port: 25,
         auth: {
-          user: 'fullstack27@gmail.com', 
-          pass: "FullStack@27"
+          user: '', 
+          pass: ""
         }
       });
     
